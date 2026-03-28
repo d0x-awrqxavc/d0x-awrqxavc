@@ -52,19 +52,6 @@ Cloud Security     →  AWS · IAM Abuse · SSRF to IMDS · Credential Exfiltrat
 CTF & Labs         →  HackTheBox · TryHackMe · Desec Security Labs
 ```
 
----
-
-## Stats
-
-<div align="center">
-
-![d0x's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0x-awrqxavc&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0x-awrqxavc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=d0x-awrqxavc&color=00ff41&style=flat-square&label=Profile+Views)
-
-</div>
 
 ---
 
