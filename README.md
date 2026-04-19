@@ -22,10 +22,11 @@ Currently working with: `Pentest` · `Red Team Operations` · `Web App & API Tes
 
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
+| 🔴 | **Desec Certified Pentester (DCPT)** | Desec Security | 2025 |
+| 🔴 | **Solyd Certified Pentester (SYCP)** | Solyd Offensive Security | 2025 |
 | 🔴 | **Certified Red Team Analyst (CRTA)** | CyberWarfare Labs | 2025 |
+| 🔴 | **certified Web Red Team Analyst (WEB-RTA)** | CyberWarfare Labs | 2025 |
 | ☁️ | **Certified Multi-Cloud Red Team Analyst (MCRTA)** | CyberWarfare Labs | 2025 |
-| 🧪 | **Desec Certified Pentester (DCPT)** | Desec Security | 2025 |
-| 🔐 | **Solyd Certified Pentester (SYCP)** | Solyd Offensive Security | 2025 |
 
 ---
 
