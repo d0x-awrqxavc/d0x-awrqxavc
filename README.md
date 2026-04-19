@@ -9,9 +9,11 @@
 </div>
 
 ---
+<div align="center">
 
-## About
+  # About
 
+</div>
 Penetration tester in training with hands-on experience across offensive security labs, CTF competitions, and red team operations. Focused on web application testing, Active Directory attacks, and cloud security assessments.
 
 Currently working with: `Pentest` · `Red Team Operations` · `Web App & API Testing` · `Active Directory` · `Cloud Security`
